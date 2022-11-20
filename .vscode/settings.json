@@ -1,0 +1,14 @@
+{
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell",
+            "env": {
+                "PATH": "${env:path}D:/Qt6/6.4.1/mingw_64/bin;D:/Qt6/Tools/mingw1120_64/bin"
+            }
+        },
+        "Command Prompt": null,
+        "Git Bash": null
+    }
+}
